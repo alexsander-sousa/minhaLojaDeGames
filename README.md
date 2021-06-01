@@ -1,0 +1,2 @@
+# minhaLojaDeGames
+Atividade de CRUD
